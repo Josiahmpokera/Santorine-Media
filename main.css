@@ -1,0 +1,30 @@
+/*
+Start with Decoration of toggle Button
+
+*/
+* {
+    scroll-behavior: smooth;
+}
+#btn {
+    background-color: aliceblue;
+}
+.main-navigation {
+    position: fixed;
+}
+.main-container {
+   height: auto;
+   width: 200px;
+}
+.post-p {
+    color: rgb(105, 105, 105);
+    text-align: justify;
+}
+.sa {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card:hover {
+    background-color: rgb(236, 233, 233);
+    cursor: pointer;
+}
