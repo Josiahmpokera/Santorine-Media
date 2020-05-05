@@ -28,3 +28,13 @@ Start with Decoration of toggle Button
     background-color: rgb(236, 233, 233);
     cursor: pointer;
 }
+
+/*
+The Navigation TOp Icons
+*/
+.icon {
+    transition: 0.5s;
+}
+.icon:hover {
+    transform: scale(1.2);
+}
